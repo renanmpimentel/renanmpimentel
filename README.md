@@ -2,64 +2,73 @@
 
 # Renan Martins Pimentel
 
-**Building AI-native developer tools.**
-_From the PHP/Docker era to shipping tools where LLMs write, browse and apply — live._
+**Engineering Manager · High-availability payments platforms**
+_Dev-to-manager over 18 years. I turn engineering teams into high-impact units — and still ship code on the side._
 
-📍 Maringá, Brazil · 🧵 15 years on GitHub
+📍 Brazil (Remote) · 🏗️ Led up to 5 squads / 38 people · 💳 99% uptime @ 180 TPS
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanmpimentel-0f766e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanmpimentel)
+[![Email](https://img.shields.io/badge/email-renan.pimentel%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:renan.pimentel@gmail.com)
 [![Blog](https://img.shields.io/badge/blog-renanmpimentel.github.io-0f766e?style=flat-square)](https://renanmpimentel.github.io)
-[![Email](https://img.shields.io/badge/email-renan.pimentel%40gmail.com-0f766e?style=flat-square)](mailto:renan.pimentel@gmail.com)
-[![Followers](https://img.shields.io/github/followers/renanmpimentel?style=flat-square&color=0f766e&label=followers)](https://github.com/renanmpimentel)
 
 </div>
 
 ---
 
-### 🧶 What I'm building now
+### 👋 About
 
-I like tools that feel local-first, run on your own machine, and put an AI agent to real work.
+Engineering Manager with **18 years in tech** and a full path from developer to leader. I've
+led **up to 5 squads simultaneously (38 people, tech leads included)** on **high-availability,
+high-volume payment systems** — connecting technical decisions to business outcomes.
 
-**🧵 [Telar](https://github.com/renanmpimentel/telar)** — a local-first AI workspace that
-generates, edits, previews and exports React interfaces from a single prompt. Describe a
-screen; it weaves the code, live. _(Next.js 16 · React 19 · TypeScript · Vitest · Playwright)_
+Hands-on in understanding the problem, allergic to micromanagement. My job is to create
+clarity, remove blockers, and grow people. Looking for **100% remote Engineering Manager**
+roles where engineering is strategic to scaling products and platforms.
 
-**🐇 [jobRabbit](https://github.com/renanmpimentel/jobrabbit)** — auto-apply to jobs from
-your terminal. A single Rust binary that drives the Claude Code CLI + your real Chrome to
-score roles, tailor a CV, and apply — asking for help only on captchas & logins.
-_(Rust · web UI + TUI · Linux/macOS/Windows · 115 tests)_
+### 🎯 What I bring
 
-**💬 [linkedin-skills](https://github.com/renanmpimentel/linkedin-skills)** — Claude Code
-skills for LinkedIn growth: human-sounding posts, comments that get noticed, publishing cadence.
+- **Leadership** — leading engineering teams & tech leads, 1:1s, career development, mentoring, Team Topologies, capacity planning, stakeholder management.
+- **Architecture** — distributed systems, event-driven architecture (Kafka), microservices, public REST APIs, high availability, PCI DSS compliance.
+- **Platform & reliability (SRE)** — observability, incident response, RCA, SLA/SLO, tech-debt reduction, cloud migration.
+- **Delivery** — quarterly technical roadmap, technical-vs-business prioritization, flow metrics, OKRs.
 
-### ⭐ Also worth a look
+### 🚀 Selected impact
 
-- **[no-jquery](https://github.com/renanmpimentel/no-jquery)** — vanilla-JS equivalents for
-  everyday jQuery snippets. **88★** and counting.
-- **[ci_start](https://github.com/renanmpimentel/ci_start)** — a battle-tested CodeIgniter
-  starter from the PHP days.
+- Raised operational reliability to **99% uptime at up to 180 TPS** after leading an internal platformization.
+- Drove the **legacy → event-driven (Kafka)** transition — faster deploys, lower coupling, more consistent architecture across teams.
+- Built observability & incident response (**New Relic, Splunk, Prometheus, Grafana**) with RCA, cutting production incidents.
+- Applied **Team Topologies** to clarify ownership and reduce cross-squad dependencies; promoted ~5 engineers to technical-reference roles.
 
-### 🛤️ The path here
+### 🧭 Where I've led
 
 ```
-2011 ─── PHP · Docker · community (PHPSC, Developers Paraná, meetups) @ UOL / BoaCompra
-  │
-2015 ─── open source & boilerplates · no-jquery reaches devs worldwide
-  │
-2020 ─── TypeScript · Rust · Go
-  │
-2026 ─── AI-native tooling: agents that generate UIs, apply to jobs, and ship
+2026 · now  ── Software Engineering Manager @ Ambev Tech  — 4 squads (~30 people), Procurement
+2022 – 2026 ── Software Engineering Manager @ PagSeguro / PagBank — up to 5 squads (38 people), platform · public APIs
+2020 – 2022 ── Software Engineer, High-Availability team @ PagSeguro International — event-driven payments
+2018 – 2019 ── Especialista / Tech Lead @ Compras Paraguai — digital products revamp, agile culture
+2013 – 2018 ── Senior Software Engineer @ PagSeguro (BoaCompra / UOL) — payments across 15+ countries, PCI DSS
 ```
 
 ### 🧰 Toolbox
 
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-0f766e?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0f766e?style=flat-square&logo=rabbitmq&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0f766e?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0f766e?style=flat-square)
+![New Relic](https://img.shields.io/badge/New%20Relic-0f766e?style=flat-square&logo=newrelic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0f766e?style=flat-square&logo=grafana&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-0f766e?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f766e?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0f766e?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f766e?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0f766e?style=flat-square&logo=react&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0f766e?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0f766e?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0f766e?style=flat-square&logo=docker&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-0f766e?style=flat-square&logo=anthropic&logoColor=white)
+
+### 🛠️ Still building (nights & weekends)
+
+Leadership didn't cost me the keyboard — I keep shipping AI-native side projects:
+
+- **🧵 [Telar](https://github.com/renanmpimentel/telar)** — local-first AI workspace that generates & previews React UIs from a prompt. _(Next.js · React · TypeScript)_
+- **🐇 [jobRabbit](https://github.com/renanmpimentel/jobrabbit)** — auto-apply to jobs from your terminal, driven by Claude Code + Chrome. _(single Rust binary)_
+- **⭐ [no-jquery](https://github.com/renanmpimentel/no-jquery)** — vanilla-JS equivalents for everyday jQuery snippets. **88★**.
 
 <div align="center">
 <br>
@@ -69,25 +78,35 @@ skills for LinkedIn growth: human-sounding posts, comments that get noticed, pub
 <br>
 <div align="left">
 
-**Construindo ferramentas de desenvolvimento nativas de IA.** Da era PHP/Docker a produtos
-onde LLMs escrevem, navegam e se candidatam — ao vivo. 15 anos de GitHub, de Maringá.
+**Engineering Manager · Plataformas de pagamento de alta disponibilidade**
 
-**Fazendo agora:**
-- **[Telar](https://github.com/renanmpimentel/telar)** — workspace local-first de IA que gera,
-  edita, previa e exporta interfaces React a partir de um prompt. _Telar_ = tear: você descreve
-  a tela, ele tece o código, ao vivo.
-- **[jobRabbit](https://github.com/renanmpimentel/jobrabbit)** — candidatura automática a vagas
-  pelo terminal, orquestrando o Claude Code CLI + seu Chrome real. Binário único em Rust.
-- **[linkedin-skills](https://github.com/renanmpimentel/linkedin-skills)** — skills de Claude
-  Code para crescimento no LinkedIn.
+Engineering Manager com **18 anos em tecnologia** e trajetória completa de desenvolvedor a
+gestor. Liderei **até 5 squads simultâneos (38 pessoas, incluindo tech leads)** em ambientes
+de **pagamentos de alta disponibilidade, alto volume transacional e alta criticidade**,
+conectando decisão técnica a resultado de negócio.
 
-**Clássicos:** [no-jquery](https://github.com/renanmpimentel/no-jquery) (88★) ·
-[ci_start](https://github.com/renanmpimentel/ci_start).
+Hands-on no entendimento do problema, sem microgerenciamento — meu trabalho é criar clareza,
+remover bloqueios e desenvolver pessoas. Busco posições **100% remotas de Engineering Manager**
+onde a engenharia tenha papel estratégico para escalar produtos e plataformas.
 
-**Trajetória:** PHP · Docker · comunidades (PHPSC, Developers Paraná) na UOL/BoaCompra →
-TypeScript · Rust · Go → ferramentas nativas de IA hoje.
+**Impacto:**
+- **99% de uptime em operação de até 180 TPS** após liderar a plataformização interna.
+- Transição de sistemas legados para **arquitetura orientada a eventos com Kafka**.
+- Observabilidade e resposta a incidentes (New Relic, Splunk, Prometheus, Grafana) com RCA.
+- **Team Topologies** para reduzir dependências; ~5 engenheiros promovidos a referência técnica.
 
-📫 renan.pimentel@gmail.com · 🌐 renanmpimentel.github.io
+**Trajetória:** Ambev Tech (agora) → PagSeguro / PagBank (EM, ~4 anos) → PagSeguro
+International (Eng. Alta Disponibilidade) → Compras Paraguai (Tech Lead) → BoaCompra / UOL
+(Eng. Sênior, pagamentos em 15+ países).
+
+**Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas — UniCesumar.
+**Idiomas:** Português (nativo) · Inglês (intermediário, em evolução).
+
+**Projetos pessoais:** [Telar](https://github.com/renanmpimentel/telar) ·
+[jobRabbit](https://github.com/renanmpimentel/jobrabbit) ·
+[no-jquery](https://github.com/renanmpimentel/no-jquery) (88★).
+
+📫 renan.pimentel@gmail.com · 💼 linkedin.com/in/renanmpimentel
 
 </div>
 </details>

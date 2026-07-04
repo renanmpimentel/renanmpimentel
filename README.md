@@ -2,18 +2,26 @@
 
 # Renan Martins Pimentel
 
-**Engineering Manager · High-availability payments platforms**
-_Dev-to-manager over 18 years. I turn engineering teams into high-impact units — and still ship code on the side._
-
-📍 Brazil (Remote) · 🏗️ Led up to 5 squads / 38 people · 💳 99% uptime @ 180 TPS
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renanmpimentel-0f766e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanmpimentel)
 [![Email](https://img.shields.io/badge/email-renan.pimentel%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:renan.pimentel@gmail.com)
 [![Blog](https://img.shields.io/badge/blog-renanmpimentel.github.io-0f766e?style=flat-square)](https://renanmpimentel.github.io)
 
+**🇺🇸 English**  ·  **🇧🇷 [Português](#-português)** _(scroll down)_
+
 </div>
 
 ---
+
+## 🇺🇸 English
+
+<div align="center">
+
+**Engineering Manager · High-availability payments platforms**
+_Dev-to-manager over 18 years. I turn engineering teams into high-impact units — and still ship code on the side._
+
+📍 Brazil (Remote)  ·  🏗️ up to 5 squads / 38 people  ·  💳 99% uptime @ 180 TPS
+
+</div>
 
 ### 👋 About
 
@@ -82,10 +90,6 @@ Leadership didn't cost me the keyboard — I keep shipping AI-native side projec
 
 </div>
 
----
-
-<div align="center">
-
 ### 💬 Let's talk
 
 **Building a team that needs steady hands on high-stakes systems? Let's chat.**
@@ -93,44 +97,93 @@ Leadership didn't cost me the keyboard — I keep shipping AI-native side projec
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanmpimentel)
 [![Email](https://img.shields.io/badge/Send%20an%20email-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.pimentel@gmail.com)
 
-<br>
+<div align="right"><a href="#renan-martins-pimentel"><sub>↑ back to top</sub></a></div>
 
-<details>
-<summary><b>🇧🇷 Português</b></summary>
-<br>
-<div align="left">
+---
+
+## 🇧🇷 Português
+
+<div align="center">
 
 **Engineering Manager · Plataformas de pagamento de alta disponibilidade**
+_De desenvolvedor a gestor em 18 anos. Transformo times de engenharia em unidades de alto impacto — e ainda escrevo código nas horas vagas._
 
-Engineering Manager com **18 anos em tecnologia** e trajetória completa de desenvolvedor a
-gestor. Liderei **até 5 squads simultâneos (38 pessoas, incluindo tech leads)** em ambientes
-de **pagamentos de alta disponibilidade, alto volume transacional e alta criticidade**,
-conectando decisão técnica a resultado de negócio.
+📍 Brasil (Remoto)  ·  🏗️ até 5 squads / 38 pessoas  ·  💳 99% de uptime @ 180 TPS
 
-Hands-on no entendimento do problema, sem microgerenciamento — meu trabalho é criar clareza,
-remover bloqueios e desenvolver pessoas. Busco posições **100% remotas de Engineering Manager**
-onde a engenharia tenha papel estratégico para escalar produtos e plataformas.
+</div>
 
-**Impacto:**
+### 👋 Sobre
+
+Passei **18 anos** indo de desenvolvedor a Engineering Manager, a maior parte em **pagamentos** —
+onde um deploy ruim não é um bug, é dinheiro que não se move. É isso que me atrai: as apostas
+são honestas. Lidero criando clareza, removendo bloqueios e desenvolvendo pessoas; hands-on
+para entender o problema, sem microgerenciar como ele é resolvido.
+
+Hoje liderando **4 squads na Ambev Tech**. Aberto a posições **100% remotas de Engineering
+Manager** onde a engenharia é estratégica — não um centro de custo.
+
+### 🎯 O que eu trago
+
+- **Liderança** — liderança de times e tech leads, 1:1s, desenvolvimento de carreira, mentoria, Team Topologies, planejamento de capacity, gestão de stakeholders.
+- **Arquitetura** — sistemas distribuídos, arquitetura orientada a eventos (Kafka), microsserviços, APIs REST públicas, alta disponibilidade, conformidade PCI DSS.
+- **Plataforma & confiabilidade (SRE)** — observabilidade, resposta a incidentes, RCA, SLA/SLO, redução de dívida técnica, migração para cloud.
+- **Entrega** — roadmap técnico trimestral, priorização técnica vs. negócio, métricas de fluxo, OKRs.
+
+### 🚀 Impacto selecionado
+
 - **99% de uptime em operação de até 180 TPS** após liderar a plataformização interna.
-- Transição de sistemas legados para **arquitetura orientada a eventos com Kafka**.
-- Observabilidade e resposta a incidentes (New Relic, Splunk, Prometheus, Grafana) com RCA.
-- **Team Topologies** para reduzir dependências; ~5 engenheiros promovidos a referência técnica.
+- Conduzi a transição de **sistemas legados para arquitetura orientada a eventos (Kafka)** — deploys mais rápidos, menor acoplamento, arquitetura consistente entre times.
+- Estruturei observabilidade e resposta a incidentes (**New Relic, Splunk, Prometheus, Grafana**) com RCA, reduzindo incidentes em produção.
+- Apliquei **Team Topologies** para clarear ownership entre squads; promovi **~5 engenheiros** a posições de referência técnica.
 
-**Trajetória:** Ambev Tech (agora) → PagSeguro / PagBank (EM, ~4 anos) → PagSeguro
-International (Eng. Alta Disponibilidade) → Compras Paraguai (Tech Lead) → BoaCompra / UOL
-(Eng. Sênior, pagamentos em 15+ países).
+### 🧭 Onde liderei
 
-**Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas — UniCesumar.
-**Idiomas:** Português (nativo) · Inglês (intermediário, em evolução).
+```
+2026 · agora ── Software Engineering Manager @ Ambev Tech  — 4 squads (~30 pessoas), Procurement
+2022 – 2026 ── Software Engineering Manager @ PagSeguro / PagBank — até 5 squads (38 pessoas), plataforma · APIs públicas
+2020 – 2022 ── Engenheiro de Software, time de Alta Disponibilidade @ PagSeguro International — pagamentos event-driven
+2018 – 2019 ── Especialista / Tech Lead @ Compras Paraguai — reformulação de produtos digitais, cultura ágil
+2013 – 2018 ── Engenheiro de Software Sênior @ PagSeguro (BoaCompra / UOL) — pagamentos em 15+ países, PCI DSS
+  ⋮
+antes ······· engenharia web & PHP · comunidades dev (PHPSC, Developers Paraná)
+```
 
-**Projetos pessoais:** [Telar](https://github.com/renanmpimentel/telar) ·
-[jobRabbit](https://github.com/renanmpimentel/jobrabbit) ·
-[no-jquery](https://github.com/renanmpimentel/no-jquery) (88★).
+### 🧰 Toolbox
 
-📫 renan.pimentel@gmail.com · 💼 linkedin.com/in/renanmpimentel
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-0f766e?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0f766e?style=flat-square&logo=rabbitmq&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0f766e?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0f766e?style=flat-square)
+![New Relic](https://img.shields.io/badge/New%20Relic-0f766e?style=flat-square&logo=newrelic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0f766e?style=flat-square&logo=grafana&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-0f766e?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f766e?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0f766e?style=flat-square&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0f766e?style=flat-square&logo=php&logoColor=white)
+
+### 🛠️ Ainda construindo (noites & fins de semana)
+
+A liderança não me custou o teclado — sigo entregando projetos pessoais AI-native:
+
+- **🧵 [Telar](https://github.com/renanmpimentel/telar)** — workspace local-first de IA que gera e previa interfaces React a partir de um prompt. _(Next.js · React · TypeScript)_
+- **🐇 [jobRabbit](https://github.com/renanmpimentel/jobrabbit)** — candidatura automática a vagas pelo terminal, orquestrada por Claude Code + Chrome. _(binário único em Rust)_
+- **⭐ [no-jquery](https://github.com/renanmpimentel/no-jquery)** — equivalentes em JavaScript puro para snippets do dia a dia em jQuery. **88★**.
+
+<div align="center">
+
+<a href="https://github.com/renanmpimentel/telar">
+  <img src="https://raw.githubusercontent.com/renanmpimentel/telar/main/docs/screenshots/responsive.png" alt="Telar — interface React gerada por um prompt, previa em desktop e mobile" width="720" />
+</a>
+
+<sub><i>Telar — uma tela React gerada por um único prompt, ao vivo em desktop e mobile.</i></sub>
 
 </div>
-</details>
 
-</div>
+### 💬 Vamos conversar
+
+**Montando um time que precisa de mãos firmes em sistemas de alta criticidade? Bora conversar.**
+
+[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanmpimentel)
+[![Email](https://img.shields.io/badge/Enviar%20um%20email-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.pimentel@gmail.com)
+
+<div align="right"><a href="#renan-martins-pimentel"><sub>↑ voltar ao topo</sub></a></div>

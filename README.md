@@ -80,16 +80,6 @@ Leadership didn't cost me the keyboard — I keep shipping AI-native side projec
 - **🐇 [jobRabbit](https://github.com/renanmpimentel/jobrabbit)** — auto-apply to jobs from your terminal, driven by Claude Code + Chrome. _(single Rust binary)_
 - **⭐ [no-jquery](https://github.com/renanmpimentel/no-jquery)** — vanilla-JS equivalents for everyday jQuery snippets. **88★**.
 
-<div align="center">
-
-<a href="https://github.com/renanmpimentel/telar">
-  <img src="https://raw.githubusercontent.com/renanmpimentel/telar/main/docs/screenshots/responsive.png" alt="Telar — a React UI generated from a prompt, previewed on desktop and mobile" width="720" />
-</a>
-
-<sub><i>Telar — a React screen generated from a single prompt, live on desktop & mobile.</i></sub>
-
-</div>
-
 ### 💬 Let's talk
 
 **Building a team that needs steady hands on high-stakes systems? Let's chat.**
@@ -168,16 +158,6 @@ A liderança não me custou o teclado — sigo entregando projetos pessoais AI-n
 - **🧵 [Telar](https://github.com/renanmpimentel/telar)** — workspace local-first de IA que gera e previa interfaces React a partir de um prompt. _(Next.js · React · TypeScript)_
 - **🐇 [jobRabbit](https://github.com/renanmpimentel/jobrabbit)** — candidatura automática a vagas pelo terminal, orquestrada por Claude Code + Chrome. _(binário único em Rust)_
 - **⭐ [no-jquery](https://github.com/renanmpimentel/no-jquery)** — equivalentes em JavaScript puro para snippets do dia a dia em jQuery. **88★**.
-
-<div align="center">
-
-<a href="https://github.com/renanmpimentel/telar">
-  <img src="https://raw.githubusercontent.com/renanmpimentel/telar/main/docs/screenshots/responsive.png" alt="Telar — interface React gerada por um prompt, previa em desktop e mobile" width="720" />
-</a>
-
-<sub><i>Telar — uma tela React gerada por um único prompt, ao vivo em desktop e mobile.</i></sub>
-
-</div>
 
 ### 💬 Vamos conversar
 

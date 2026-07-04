@@ -17,13 +17,13 @@ _Dev-to-manager over 18 years. I turn engineering teams into high-impact units �
 
 ### 👋 About
 
-Engineering Manager with **18 years in tech** and a full path from developer to leader. I've
-led **up to 5 squads simultaneously (38 people, tech leads included)** on **high-availability,
-high-volume payment systems** — connecting technical decisions to business outcomes.
+I spent **18 years** going from developer to Engineering Manager, most of it in **payments** —
+where a bad deploy isn't a bug, it's money that doesn't move. That's what I like about it: the
+stakes are honest. I lead by creating clarity, removing blockers and growing people; hands-on
+when understanding the problem, never micromanaging how it gets solved.
 
-Hands-on in understanding the problem, allergic to micromanagement. My job is to create
-clarity, remove blockers, and grow people. Looking for **100% remote Engineering Manager**
-roles where engineering is strategic to scaling products and platforms.
+Currently leading **4 squads at Ambev Tech**. Open to **100% remote Engineering Manager** roles
+where engineering is strategic — not a cost center.
 
 ### 🎯 What I bring
 
@@ -34,10 +34,10 @@ roles where engineering is strategic to scaling products and platforms.
 
 ### 🚀 Selected impact
 
-- Raised operational reliability to **99% uptime at up to 180 TPS** after leading an internal platformization.
-- Drove the **legacy → event-driven (Kafka)** transition — faster deploys, lower coupling, more consistent architecture across teams.
-- Built observability & incident response (**New Relic, Splunk, Prometheus, Grafana**) with RCA, cutting production incidents.
-- Applied **Team Topologies** to clarify ownership and reduce cross-squad dependencies; promoted ~5 engineers to technical-reference roles.
+- **99% uptime at up to 180 TPS** after leading an internal platformization effort.
+- Drove the **legacy → event-driven (Kafka)** transition — faster deploys, lower coupling, consistent architecture across teams.
+- Stood up observability & incident response (**New Relic, Splunk, Prometheus, Grafana**) with RCA, cutting production incidents.
+- Applied **Team Topologies** to clarify ownership across squads; promoted **~5 engineers** to technical-reference roles.
 
 ### 🧭 Where I've led
 
@@ -47,6 +47,8 @@ roles where engineering is strategic to scaling products and platforms.
 2020 – 2022 ── Software Engineer, High-Availability team @ PagSeguro International — event-driven payments
 2018 – 2019 ── Especialista / Tech Lead @ Compras Paraguai — digital products revamp, agile culture
 2013 – 2018 ── Senior Software Engineer @ PagSeguro (BoaCompra / UOL) — payments across 15+ countries, PCI DSS
+  ⋮
+earlier ····· web & PHP engineering · dev communities (PHPSC, Developers Paraná)
 ```
 
 ### 🧰 Toolbox
@@ -71,6 +73,26 @@ Leadership didn't cost me the keyboard — I keep shipping AI-native side projec
 - **⭐ [no-jquery](https://github.com/renanmpimentel/no-jquery)** — vanilla-JS equivalents for everyday jQuery snippets. **88★**.
 
 <div align="center">
+
+<a href="https://github.com/renanmpimentel/telar">
+  <img src="https://raw.githubusercontent.com/renanmpimentel/telar/main/docs/screenshots/responsive.png" alt="Telar — a React UI generated from a prompt, previewed on desktop and mobile" width="720" />
+</a>
+
+<sub><i>Telar — a React screen generated from a single prompt, live on desktop & mobile.</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's talk
+
+**Building a team that needs steady hands on high-stakes systems? Let's chat.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanmpimentel)
+[![Email](https://img.shields.io/badge/Send%20an%20email-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.pimentel@gmail.com)
+
 <br>
 
 <details>
